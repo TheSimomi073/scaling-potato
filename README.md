@@ -10,3 +10,7 @@ To solve it, enter the /etc/apt/sources.list, you can do it with "sudo nano /etc
 In there, delete any line that contains:
 
 "deb http://download.webmin.com/download/repository sarge contrib"
+
+## Chess
+
+Really, dont use it, it's not finished and crappy
